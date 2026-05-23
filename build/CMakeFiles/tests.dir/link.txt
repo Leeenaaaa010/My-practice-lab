@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/tests/test_main.cpp.o CMakeFiles/tests.dir/src/GameMenu.cpp.o CMakeFiles/tests.dir/src/TicTacToe.cpp.o -o tests 
