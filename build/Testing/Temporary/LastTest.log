@@ -1,0 +1,31 @@
+Start testing: May 23 14:50 UTC
+----------------------------------------------------------
+1/1 Testing: FeatureTests
+1/1 Test: FeatureTests
+Command: "/workspaces/My-practice-lab/build/tests"
+Directory: /workspaces/My-practice-lab/build
+"FeatureTests" start time: May 23 14:50 UTC
+Output:
+----------------------------------------------------------
+Running tests...
+Test 1: GameMenu creation... PASS
+Test 2: display menu... 
+===== MINI GAME HUB =====
+1. Play Snake
+2. Play Tic Tac Toe
+3. Exit
+=========================
+PASS
+Test 3: place move... PASS
+Test 4: occupied cell... PASS
+Test 5: switch player... PASS
+All tests passed.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FeatureTests" end time: May 23 14:50 UTC
+"FeatureTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 23 14:50 UTC
